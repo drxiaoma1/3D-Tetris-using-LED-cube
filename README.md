@@ -8,6 +8,10 @@ stm32g030 is limited in the number of pins, so you'd better use other chips like
 
 **ST chip is a must**
 
+You can download the LED cube zip and run the project directly on cubeIDE
+
+or you can also check the source code and try to use this on other platforms
+
 ------
 
 ------
@@ -23,3 +27,7 @@ stm32g030 is limited in the number of pins, so you'd better use other chips like
 stm32g030引脚有限，所以你最好使用性能更好的芯片，比如stm32g474
 
 但必须是ST的芯片
+
+你可以直接下载LED cube压缩包文件，解压后可以直接在cubeIDE中运行
+
+或者你也可以查看源代码并尝试移植到其他平台
